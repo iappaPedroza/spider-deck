@@ -1,23 +1,27 @@
-# template-vite-react-ts-tailwind-v3
+# A fictional boilerplate based on SpiderMan Multiverses 
+ - **Inspired in:** a class of basics HTML+CSS+JS from DIO (Digital Innovation One).
+
+
+## template-vite-react-ts-tailwind-v3
 
 - **template of:** vite + react + typescript
 - **tailwindcss:** v3.x
 
-## Started
+### Started
 ```bash
 yarn
 # or `npm install`
 ```
 
 ---
-## Develop
+### Develop
 ```bash
 yarn dev
 # or `npm run dev`
 ```
 
 ---
-## Build
+### Build
 ```bash
 yarn build
 # or `npm run build`
